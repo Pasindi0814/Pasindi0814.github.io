@@ -1,4 +1,4 @@
-# 🌐 Pasindi's Portfolio
+# 🌐 Portfolio
 
 Welcome to my personal portfolio repository!  
 This project is built with **HTML + CSS** and hosted using **GitHub Pages**.  
